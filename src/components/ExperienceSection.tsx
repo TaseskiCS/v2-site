@@ -13,7 +13,7 @@ const experiences: ExperienceItem[] = [
     id: '1',
     role: 'Trade Floor Full Stack Developer',
     summary: 'Global capital markets automation',
-    range: 'MAY 2026 — AUG 2027 (16 month co-op)',
+    range: 'MAY 2026 — AUG 2027',
     location: 'TORONTO, ON',
     companyLogo: '/scotiabank.webp',
     type: 'intern',
