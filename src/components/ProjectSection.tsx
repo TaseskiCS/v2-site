@@ -30,7 +30,7 @@ const projects: Project[] = [
     badges: ['Finalist @ HackHarvard25'],
     stack: ['React', 'TypeScript', 'Node.js', 'Three.js'],
       imageSrc: '/adaptive.jpeg',
-      href: '#',
+      href: 'https://github.com/ruyot/adaptive',
   },
   {
     id: '3',
@@ -50,7 +50,7 @@ const projects: Project[] = [
     badges: [],
     stack: ['Python', 'spaCy', 'FastAPI', 'Jupyter'],
     imageSrc: '/cvlens.jpeg',
-    href: '#',
+    href: 'https://github.com/taseskics/cvlens',
   },
   {
     id: '5',
@@ -59,7 +59,7 @@ const projects: Project[] = [
     badges: ['GenAIGenesis 2025 Hackathon'],
     stack: ['Next.js', 'Node.js', 'Firebase'],
     imageSrc: '/infinitecontext.jpeg',
-    href: '#',
+    href: 'https://github.com/taseskics/infinite-context',
   },
   {
     id: '6',
@@ -68,7 +68,7 @@ const projects: Project[] = [
     badges: [],
     stack: ['Flutter', 'Python','Django', 'MongoDB', 'BERT'],
     imageSrc: '/emoz.jpeg',
-    href: '#',
+    href: 'https://github.com/taseskics/emoz',
   },
   
 ]

@@ -20,7 +20,7 @@ const experiences: ExperienceItem[] = [
   },
   {
     id: '2',
-    role: 'Software Engineer Intern',
+    role: 'Software Engineer',
     summary: 'Created algorithmic job-matching platform for the employment team to manage onboarding for clients.',
     range: 'MAY 2025— AUG 2025',
     location: 'Toronto, ON',
